@@ -1,5 +1,5 @@
 # Automated-Customer-Service-Chatbot-
-This a customer service chetbot end to end project
+This a customer service chatbot end to end project
 
 like this code ! :)
 
